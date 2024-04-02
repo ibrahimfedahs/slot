@@ -33,6 +33,7 @@ Execute the program using runserver command.
 <center>
 <img src="logo.png"height="100"width="540">
 </center>
+<h2>IBRAHIM FEDAH S - (212223240056)</h2>
 <br>
 <table align="center" width="540"cellspacing="2"cellpadding="1" border="5" bgcolor="orange">
 <caption><b>>MY TIMETABLE</b></caption>
